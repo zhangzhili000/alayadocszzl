@@ -67,7 +67,8 @@ title: ATON Wallet User Manual
 ### ARC721 Smart Contract Collectible Set List
 
 <div>
-<div style="float:left;"><img src="/alaya-devdocs/img/en/ATON-user-manual.assets/paints1.png" width="300" style="zoom:80%;"  /></div> <div><br>Click a ARC721 Collectible Set to the page of ARC721 Collectible Set Detail.
+<div style="float:left;"><img src="/alaya-devdocs/img/en/ATON-user-manual.assets/paints1.jpg" width="300" style="zoom:80%;"  /></div> <div><br>Click a ARC721 Collectible Set to the page of ARC721 Collectible Set Detail.
+
 
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
@@ -77,7 +78,8 @@ title: ATON Wallet User Manual
 ### ARC721 Smart Contract Collectible Set Detail
 
 <div>
-<div style="float:left;"><img src="/alaya-devdocs/img/en/ATON-user-manual.assets/paints2.png" width="300" style="zoom:80%;"  /></div> <div><br>1. At the top is the introduction about current shown ARC721 Collectible Set.<br>2. The rest part are ARC721 Collectibles belong to current wallet. Click a picture of Collectible to the page of Collectible Detail.
+<div style="float:left;"><img src="/alaya-devdocs/img/en/ATON-user-manual.assets/paints2.jpg" width="300" style="zoom:80%;"  /></div> <div><br>1. At the top is the introduction about current shown ARC721 Collectible Set.<br>2. The rest part are ARC721 Collectibles belong to current wallet. Click a picture of Collectible to the page of Collectible Detail.
+
 
 
 
@@ -93,7 +95,8 @@ title: ATON Wallet User Manual
 ### ARC721 Smart Contract Collectible Detail
 
 <div>
-<div style="float:left;"><img src="/alaya-devdocs/img/en/ATON-user-manual.assets/paints3.png" width="300" style="zoom:80%;"  /></div> <div><br>1. Top of this page is current collectible's name and ID.<br>2. Middle part contains the detail and tradings of this collectible.<br>3. At the bottom is the button for sending this collectible. To send this collectible to another address on sending page by clicking this button.
+<div style="float:left;"><img src="/alaya-devdocs/img/en/ATON-user-manual.assets/paints3.jpg" width="300" style="zoom:80%;"  /></div> <div><br>1. Top of this page is current collectible's name and ID.<br>2. Middle part contains the detail and tradings of this collectible.<br>3. At the bottom is the button for sending this collectible. To send this collectible to another address on sending page by clicking this button.
+
 
 </div>
 
@@ -107,7 +110,8 @@ title: ATON Wallet User Manual
 ### ARC721 Smart Contract Collectible Tradings' Record
 
 <div>
-<div style="float:left;"><img src="/alaya-devdocs/img/en/ATON-user-manual.assets/paints4.png" width="300" style="zoom:80%;"  /></div> <div><br>1. After clicking Recent Trading tag, you can see the list of tradings of current collectible.<br>2. Click one of these records to see trading detail.
+<div style="float:left;"><img src="/alaya-devdocs/img/en/ATON-user-manual.assets/paints4.jpg" width="300" style="zoom:80%;"  /></div> <div><br>1. After clicking Recent Trading tag, you can see the list of tradings of current collectible.<br>2. Click one of these records to see trading detail.
+
 
 
 
@@ -229,11 +233,12 @@ For details about importing observed wallets, please refer to the instructions o
 ## Send ARC721 Smart Contract Collectible
 
 <div>
-<div style="float:left;"><img src="/alaya-devdocs/img/en/ATON-user-manual.assets/paints5.png" width="500" style="zoom:80%;" /></div><div><br>1. On the page of Collectible Detail, click the [Send] button.<br>2. Type in valid  wallet address, or scan the QR code of the wallet to automatically fill in the address, or select a locally saved wallet address through the address book.<br>3. Choose the transaction fee, and you can click to adjust it to be lower or higher.<br>4. Click the [Next] button to confirm the transaction information, and click the [Send Transaction] button and enter the correct wallet password to send the transaction to the blockchain network. Click the [Cancel] button to cancel this transaction.
+<div style="float:left;"><img src="/alaya-devdocs/img/en/ATON-user-manual.assets/paints5.jpg" width="500" style="zoom:80%;" /></div><div><br>1. On the page of Collectible Detail, click the [Send] button.<br>2. Type in valid  wallet address, or scan the QR code of the wallet to automatically fill in the address, or select a locally saved wallet address through the address book.<br>3. Choose the transaction fee, and you can click to adjust it to be lower or higher.<br>4. Click the [Next] button to confirm the transaction information, and click the [Send Transaction] button and enter the correct wallet password to send the transaction to the blockchain network. Click the [Cancel] button to cancel this transaction.
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
