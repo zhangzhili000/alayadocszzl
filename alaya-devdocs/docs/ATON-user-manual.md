@@ -250,11 +250,12 @@ For details about importing observed wallets, please refer to the instructions o
 ## Choose Transaction Fee
 
 <div>
-<div style = "float: left;"> <img src = "/alaya-devdocs/img/en/ATON-user-manual.assets/aton12.png "width ="500"style="zoom:80%;" /> </div> <div> <br> 1.The functions of sending, entrusting, redeeming and receiving rewards all incur transaction fees. <br> 2. Take the sending function as an example, click [Transaction Fee] to enter the transaction fee setting page.<br>3. There are 5 choices for transaction fees (Fastest, Fast, Recommended, Cheap, Customize). <br> 4. [General] configuration item is selected by default.<br> 5.The user can select the corresponding option according to actual needs.<br> 6.In the [Custom] column, users can enter Gas Price and Gas Limit independently to achieve flexible cost configuration.
+<div style = "float: left;"> <img src = "/alaya-devdocs/img/en/ATON-user-manual.assets/aton12.png "width ="500"style="zoom:80%;" /> </div> <div> <br> 1.The functions of sending, entrusting, redeeming and receiving rewards all incur transaction fees. <br> 2. Take the sending function as an example, click [Transaction Fee] to enter the transaction fee setting page.<br>3. There are 5 choices for transaction fees (Fastest, Fast, Recommended, Cheap, Customize). <br> 4. [Recommended] configuration item is selected by default.<br> 5.The user can select the corresponding option according to actual needs.<br> 6.In the [Customize] column, users can enter Gas Price and Gas Limit independently to achieve flexible cost configuration.
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
