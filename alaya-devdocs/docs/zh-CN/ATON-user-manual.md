@@ -234,11 +234,12 @@ title: ATON钱包用户使用手册
 ## 选择交易手续费
 
 <div>
-<div style="float:left;"><img src="/alaya-devdocs/img/zh-CN/ATON-manual-cn.assets/aton12.png" width="500" style="zoom:80%;" /></div><div><br>1.发送、委托、赎回和领取奖励功能都会产生交易手续费。<br>2.以发送功能为例，点击【交易手续费】，可以进入交易手续费设置页面。<br>3.交易手续费有5种选择（最快、快速、一般、缓慢、自定义）。<br>4.默认选中【一般】配置项。<br>5.用户可以根据实际需要选择相应的选项。<br>6.其中【自定义】一栏用户可以自主输入Gas Price和Gas Limit来实现灵活化的费用配置。
+<div style="float:left;"><img src="/alaya-devdocs/img/zh-CN/ATON-manual-cn.assets/aton12.png" width="500" style="zoom:80%;" /></div><div><br>1.发送、委托、赎回和领取奖励功能都会产生交易手续费。<br>2.以发送功能为例，点击【交易手续费】，可以进入交易手续费设置页面。<br>3.交易手续费有5种选择（最快、快速、推荐、便宜、自定义）。<br>4.默认选中【推荐】配置项。<br>5.用户可以根据实际需要选择相应的选项。<br>6.其中【自定义】一栏用户可以自主输入Gas Price和Gas Limit来实现灵活化的费用配置。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 ## 节点
@@ -268,11 +269,12 @@ title: ATON钱包用户使用手册
 ### 参与委托
 
 <div>
-<div style="float:left;"><img src="/alaya-devdocs/img/zh-CN/ATON-manual-cn.assets/aton15.png" width="300" style="zoom:80%;"  /></div><div><br>1. 可点击【委托-验证节点】，选择某个节点进行委托。如果已委托过，可点击【委托-我的委托-委托节点详情】，选择某个节点继续进行委托。<br>2. 进入页面，选择需要委托的钱包。<br>3. 如果钱包有锁仓金额，可点击委托钱包余额选项栏进行切换，使用锁仓金额进行委托（注意钱包余额需足够支付委托交易手续费）。<br>4. 输入委托的金额，每次委托不得小于10ATP。<br>5. 输入正确的密码即可完成委托。<br>6. 已委托过的节点，可再次进行委托，无次数限制。<br><br><b>注意</b><br>1. 委托人将ATP委托给节点，当委托的节点产生收益时，委托人将会获得基于节点配置的委托奖励比例分配的收益。<br>2. 收益节点关联的钱包地址，不可参与委托。<br>3. 委托的ATP在下个结算周期才开始生效。
+<div style="float:left;"><img src="/alaya-devdocs/img/zh-CN/ATON-manual-cn.assets/aton15.png" width="300" style="zoom:80%;"  /></div><div><br>1. 可点击【委托-验证节点】，选择某个节点进行委托。如果已委托过，可点击【委托-我的委托-委托节点详情】，选择某个节点继续进行委托。<br>2. 进入页面，选择需要委托的钱包。<br>3. 如果钱包有锁仓金额，可点击委托钱包余额选项栏进行切换，使用锁仓金额进行委托（注意钱包余额需足够支付委托交易手续费）。<br>4. 输入委托的金额，每次委托不得小于1ATP。<br>5. 输入正确的密码即可完成委托。<br>6. 已委托过的节点，可再次进行委托，无次数限制。<br><br><b>注意</b><br>1. 委托人将ATP委托给节点，当委托的节点产生收益时，委托人将会获得基于节点配置的委托奖励比例分配的收益。<br>2. 收益节点关联的钱包地址，不可参与委托。<br>3. 委托的ATP在下个结算周期才开始生效。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 ### 查看我的委托
@@ -288,11 +290,12 @@ title: ATON钱包用户使用手册
 ### 赎回委托
 
 <div>
-<div style="float:left;"><img src="/alaya-devdocs/img/zh-CN/ATON-manual-cn.assets/aton17.png" width="500"style="zoom:80%;" /></div><div><br>1. 点击【委托-我的委托-详情-赎回委托】可进行赎回。<br>2. 输入想要赎回的数量，数量需大于等于10ATP，输入正确的密码即可完成赎回委托操作。<br><br><b>注意:</b><br>1. 赎回委托，将立即到账。<br>2. 操作全部赎回时，将自动领取委托奖励。
+<div style="float:left;"><img src="/alaya-devdocs/img/zh-CN/ATON-manual-cn.assets/aton17.png" width="500"style="zoom:80%;" /></div><div><br>1. 点击【委托-我的委托-详情-赎回委托】可进行赎回。<br>2. 输入想要赎回的数量，数量需大于等于1ATP，输入正确的密码即可完成赎回委托操作。<br><br><b>注意:</b><br>1. 赎回委托，将立即到账。<br>2. 操作全部赎回时，将自动领取委托奖励。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 ## 设置观察钱包与冷钱包
 
